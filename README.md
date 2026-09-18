@@ -2,6 +2,9 @@
 
 An end-to-end time-series forecasting project using historical Superstore sales data to analyze sales trends, identify seasonality, compare forecasting models, and predict future sales.
 
+# POWER BI DASHBOARD
+![Sales Forecasting Power BI Dashboard](Screenshots/Dashboard.png)
+
 ## 📌 Project Overview
 
 This project demonstrates how historical sales data can be transformed into actionable business insights using data analysis, time-series forecasting, and interactive visualization.
